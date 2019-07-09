@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/user-management/change_password.js": "/js/user-management/change_password.js",
+    "/js/user-management/department.js": "/js/user-management/department.js",
+    "/js/user-management/role.js": "/js/user-management/role.js",
+    "/js/user-management/user.js": "/js/user-management/user.js"
+}

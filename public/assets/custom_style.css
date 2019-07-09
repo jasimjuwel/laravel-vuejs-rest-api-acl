@@ -1,0 +1,26 @@
+.requiredField{
+    color:red;
+}
+
+.badge-danger{
+    background: red !important;
+}
+.badge-success{
+    background: #00a65a !important;
+}
+.menu-label{
+    font-weight: 600 !important;
+    margin-left: 15px;
+    color: #3c8dbc;
+}
+
+.menu-action-label{
+    font-weight: 400 !important;
+    margin-left: 30px;
+}
+
+.module_name{
+    font-weight: 600 !important;
+    font-size: 17px !important;
+    color: #3c8dbc;
+}
